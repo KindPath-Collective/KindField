@@ -1,10 +1,28 @@
 ---
-name: kindfield
+name: KINDFIELD
+version: 0.1
+type: epistemological-foundation
+status: living-document
 description: The shared epistemological foundation for all KindPath skills. Not a ruleset. Not a framework to be defended. A living field of recorded potential that all KindPath skill interfaces inherit from and contribute back to. Read this before operating any KindPath skill.
 ---
 
 # KINDFIELD
 ### The Living Foundation of KindPath Skill Operation
+
+---
+
+## Table of Contents
+
+- [What This Is](#what-this-is)
+- [The Core Recognition](#the-core-recognition)
+- [What This Means for Every Skill](#what-this-means-for-every-skill)
+- [The Multiverse Principle](#the-multiverse-principle)
+- [The Insecurity Recognition](#the-insecurity-recognition)
+- [The Awkwardness Acknowledgment](#the-awkwardness-acknowledgment)
+- [The Compressor Model — Dynamic Response to Dysfunction](#the-compressor-model--dynamic-response-to-dysfunction)
+- [The Tokenized System Awareness](#the-tokenized-system-awareness)
+- [What KINDFIELD Is Not](#what-kindfield-is-not)
+- [KindPath Language Reference](#kindpath-language-reference)
 
 ---
 
